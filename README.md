@@ -118,6 +118,14 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 # Badges
 
+### ⌨️ Gaming Brands
+
+| Name                  | Badge                                                                                                                      | Markdown                                                                                                               |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Razer                 | ![Razer](https://img.shields.io/badge/razer-00FF00?style=for-the-badge&logo=razer&logoColor=000)                           | `![Razer](https://img.shields.io/badge/razer-00FF00?style=for-the-badge&logo=razer&logoColor=000)`                     |
+| Logitech G Pro        | ![Logitech G](https://img.shields.io/badge/logitech%20g-00B8FC?style=for-the-badge&logo=logitechg&logoColor=white)         | `![Logitech G](https://img.shields.io/badge/logitech%20g-00B8FC?style=for-the-badge&logo=logitechg&logoColor=white)`   |
+
+
 ### 🤖 Artificial Intelligence and Bots
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
